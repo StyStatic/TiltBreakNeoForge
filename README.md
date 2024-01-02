@@ -1,28 +1,15 @@
-
-Installation information
-=======
-
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions at [github](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
-
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
-
-> **Note**: For IDEs other than Intellij IDEA, you must run the `ideBeforeRun` task first from the terminal (such as `./gradlew ideBeforeRun`) for the run configs to work.
-
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p><strong><img src="https://i.imgur.com/gkS1zjt.png" alt="" width="960" height="400" /><br /><br />Supported Versions: Latest Version</strong></p>
+<p>&nbsp;</p>
+<p><strong>Discord: <a title="Discord" href="https://discord.gg/vCz4WeW" target="_blank" rel="noopener noreferrer">StyStatic's Gaming Gamers</a></strong></p>
+<p><strong><br />Introducing "Tilt Break" - the ultimate mod for Minecraft veterans who miss the good old days of gameplay! With this mod, you can say goodbye to the frustrating aspect of change that comes with Minecraft updates.</strong></p>
+<p>&nbsp;</p>
+<p>Tilt Break brings back an <strong>old feature</strong> by <strong>re-implementing</strong> a <strong>fixed bug</strong> that changes how the <strong>camera moves</strong> when you're attacked. No longer will you be forced to adapt to the<strong> new camera mechanics</strong>, as Tilt Break restores the <strong>classic camera tilt</strong> that you know and love.</p>
+<p>&nbsp;</p>
+<p>With its simple yet effective fix, Tilt Break offers a seamless transition back to the gameplay experience that you remember. Whether you're a <strong>Minecraft veteran</strong> or simply prefer the <strong>old mechanics</strong>, this mod is sure to <strong>enhance your Minecraft experience</strong>. Say goodbye to frustration and hello to <strong>nostalgia with Tilt Break</strong>!</p>
+<p><br /><strong><em>Tilt Break is in a Beta-Testing Stage, the Camera Tilt hasn't been finalized and we are not sure that it is 100% correct.</em></strong></p>
+</div>
+</div>
+</div>
