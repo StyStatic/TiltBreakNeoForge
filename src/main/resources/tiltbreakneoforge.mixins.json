@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.data_stream.tiltbreakneoforge.Mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tiltbreakneoforge.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
